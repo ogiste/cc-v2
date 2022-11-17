@@ -1,4 +1,4 @@
-creative-coding-domestika-2022
+creative-coding - animation, sound and colour
 ==============================
 Resources and notes for students of the course [Creative Coding 2.0 in JS: Animation, Sound, & Color](https://www.domestika.org/en/courses/3862-creative-coding-2-0-in-js-animation-sound-color/bruno_imbrizi) at Domestika.
 
